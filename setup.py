@@ -6,7 +6,7 @@ readme = open('README.rst').read()
 
 setup(
     name='django-unique-slugify',
-    version='1.00',
+    version='1.01',
     author_email='gattster@gmail.com',
     author='SmileyChris (packaged by Philip Gatt)',
     description="Automatically create a unique slug for a model.",
